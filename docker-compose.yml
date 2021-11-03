@@ -1,0 +1,5 @@
+version: '3.9'
+services:
+  eem:
+    restart: always
+    image: emm-cli:latest
