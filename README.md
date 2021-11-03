@@ -25,7 +25,7 @@ For an easier way of running the service, please install [Docker](https://docs.d
 
 ### From sources
 
-Run `sbt stage`, this will create a launcher at `http/target/universal/stage/bin/eem-cli`.
+Run `sbt stage`, this will create a launcher at `eem\modules\cli\target\universal\scripts\bin\eem-cli`.
 
 ### Docker image
 
